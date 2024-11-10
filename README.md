@@ -4,10 +4,10 @@ Sentiment Analysis is the process of ‘computationally’ determining whether a
 Business: In marketing field companies use it to develop their strategies, to understand customers’ feelings towards products or brand, how people respond to their campaigns or product launches and why consumers don’t buy some products.
 Politics: In political field, it is used to keep track of political view, to detect consistency and inconsistency between statements and actions at the government level. It can be used to predict election results as well!
 Public Actions: Sentiment analysis also is used to monitor and analyse social phenomena, for the spotting of potentially dangerous situations and determining the general mood of the blogosphere.
-Project Overview
+## Project Overview
 This project uses machine learning to classify the sentiment of tweets as either positive or negative. By training a logistic regression model on a large dataset of tweets, we can gauge public sentiment on topics and trends, which can be valuable for brands, marketing, and social analysis.
 
-Dataset
+## Dataset
 Source: Kaggle - Sentiment140
 Description: Contains 1.6 million tweets labeled for sentiment, where 0 represents negative and 1 represents positive sentiment.
 Project Structure
